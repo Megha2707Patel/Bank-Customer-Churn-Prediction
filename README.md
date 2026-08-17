@@ -61,10 +61,4 @@ This project successfully identified the top factors contributing to customer ch
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
-## 📬 Contact
-
-Feel free to connect or collaborate:
-
-- GitHub: Swapnil718 https://github.com/Swapnil718
-- LinkedIn: Swapnil Yadav https://www.linkedin.com/in/swapnil-yadav-dataanalyst/
 
